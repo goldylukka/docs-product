@@ -50,4 +50,4 @@ Reusing the following elements, will make the consumer’s dependency to the pro
 * Static Entities
 * Structures
 
-If the consumer is reusing more than one element exposed by the same producer module, the consumer has a **weak dependency** to that producer only if **all the elements** belong to the list above.
+If the consumer is reusing more than one element exposed by the same producer module, the consumer has a **weak dependency** to that producer only if **all the (consumed) elements** belong to the list above.
